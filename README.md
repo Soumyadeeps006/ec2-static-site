@@ -53,4 +53,7 @@ Delete the security group and key pair if you no longer need them.
 
 ---
 
+##Project URL
+[https://roadmap.sh/projects/ec2-instance](https://roadmap.sh/projects/ec2-instance)
+
 Happy cloud‑building!
